@@ -1,0 +1,18 @@
+{
+  "name": "newtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.2",
+    "body-parser": "^1.17.0",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.5"
+  }
+}
